@@ -112,9 +112,15 @@ registerlogin/
 
 ## 📸 Screenshots
 
+
 > Register page with particle background, floating card, and password strength meter.
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/83598d23-a23c-41f2-abfb-bc56b8c68918" />
+
+
 
 > Dashboard with animated avatar, stats cards, and live clock.
+> <img width="1338" height="947" alt="image" src="https://github.com/user-attachments/assets/14e0893a-8954-46d4-b8e6-2c62341020e2" />
+
 
 ---
 
